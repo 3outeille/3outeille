@@ -1,3 +1,3 @@
 <div align='center'>
-  <img height=200 src="https://tenor.com/view/moneyball-50feet-of-crap-rich-teams-poor-teams-there-theres-us-gif-15572320"/>
+  <img height=200 src="https://cdn.discordapp.com/attachments/698182104244158514/759465651193905242/tenor.gif"/>
 </div>
