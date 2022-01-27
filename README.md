@@ -1,2 +1,2 @@
 - Current interest: Compilers, Deep Learning acceleration & compression.
-- My [resume](https://drive.google.com/file/d/1h52BCqbFkKFgMzecP1w3rCHQel7VaU71/view?usp=sharing).
+- My [resume](https://drive.google.com/file/d/1rGr80teAKk0jRnw9X2ctE2hDWzG3cfxt/view?usp=sharing).
