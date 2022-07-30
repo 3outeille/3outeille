@@ -1,1 +1,1 @@
-- My [resume](https://drive.google.com/file/d/1x5Olt_-dP06ooWIagwHem8VinQK5wEsW/view?usp=sharing).
+- My [resume](https://drive.google.com/file/d/1s-ra6DGFCniUlm_x8KkCBXiDbx78XT2I/view?usp=sharing).
