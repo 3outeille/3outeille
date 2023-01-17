@@ -1,4 +1,4 @@
-- Wannabe AI researcher & Emulator developer
+- Wannabe AI researcher
 - Interested in CPU & GPU black magic.
 - "Man cannot remake himself without suffering, for he is both the marble and the sculptor."
 ---
