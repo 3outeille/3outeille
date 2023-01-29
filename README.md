@@ -2,4 +2,4 @@
 - Interested in CPU & GPU black magic.
 - "Man cannot remake himself without suffering, for he is both the marble and the sculptor."
 ---
-- My [**resume**](https://drive.google.com/file/d/1oPCjDKRCj1VWZR03vZi08OgvbkvT2SkS/view?usp=sharing).
+- My [**resume**](https://drive.google.com/file/d/1XqYWDZEVtwD3OP59pUylhAusCirRGGWr/view?usp=sharing).
