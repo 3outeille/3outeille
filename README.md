@@ -1,5 +1,5 @@
 - Wannabe AI researcher
 - Interested in CPU & GPU black magic.
-- "Man cannot remake himself without suffering, for he is both the marble and the sculptor."
----
 - My [**resume**](https://drive.google.com/file/d/1sdIEz-dszBbQ06Uy6xtvKa9QY3ko0Qlf/view).
+---
+- ![](https://komarev.com/ghpvc/?username=3outeille&color=blueviolet)
