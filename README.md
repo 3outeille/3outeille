@@ -1,4 +1,4 @@
-- Upcoming PhD student at [Criteo Ai Lab](https://ailab.criteo.com/).
+- Research engineer at HuggingFace
 - Interested in Efficient Transformer, CPU & GPU black magic.
 - My [**resume**](https://drive.google.com/file/d/126C_mDtxm_WL7ycGY4RxhPcFnTLwzavN/view?usp=sharing).
 ---
