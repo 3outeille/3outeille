@@ -1,4 +1,4 @@
-- Research engineer at HuggingFace
+- Research engineer at HuggingFace, Large scale pretraining
 - Interested in Efficient Transformer, CPU & GPU black magic.
 - My [**resume**](https://drive.google.com/file/d/126C_mDtxm_WL7ycGY4RxhPcFnTLwzavN/view?usp=sharing).
 ---
