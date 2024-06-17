@@ -1,5 +1,6 @@
 - Research engineer at HuggingFace, Large scale pretraining
 - Interested in Efficient Transformer, CPU & GPU black magic.
+- https://www.youtube.com/watch?v=VYPi0qcHWvQ&ab_channel=ABANIMETION
 - My [**resume**](https://drive.google.com/file/d/126C_mDtxm_WL7ycGY4RxhPcFnTLwzavN/view?usp=sharing).
 ---
 - ![](https://komarev.com/ghpvc/?username=3outeille&color=blueviolet)
